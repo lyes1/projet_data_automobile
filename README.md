@@ -6,7 +6,7 @@ Ce projet se veut être le plus complet possible (cycle de vie d'un projet data)
 Nous devons explorer, netoyer des données et les enrichir si besoin. Puis, concevoir et implémenter un modèle de prédiction. Pour finir, une réflexion sur la mise en production est demandée. <br>
 
 Pour des soucis d'organisation, nous réalisons ce projet à travers plusieurs notebooks. Des objectifs spécifiques sont définits dans chaque notebook.  
-* 1_Data_cars_dataset_Exploration_modelisation :
+* 1_Data_cars_dataset_Exploration_modelisation
 * 2_Collecte_data_externe
 * 3_ScrapedData_cleaning_merging
 * 4_FinalData_exploration_Modeling
