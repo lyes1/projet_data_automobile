@@ -13,6 +13,8 @@ Ainsi, pour une meilleure compréhension des étapes suivies pour la réalisatio
 * 3_ScrapedData_cleaning_merging
 * 4_FinalData_exploration_Modeling
 
+**MAPE final = 6,85%**
+
 Auteurs :
 * Lyes BOUALI
 * Asma SEMSAR
